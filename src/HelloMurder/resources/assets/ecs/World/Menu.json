@@ -19,6 +19,9 @@
   "_folders": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable]], System.Private.CoreLib"
   },
+  "_filterFolders": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable]], System.Private.CoreLib"
+  },
   "_entities": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Murder.Prefabs.EntityInstance, Murder]], System.Private.CoreLib",
     "e5c06d11-f5cb-4f1b-938f-bccafdd97d29": {
@@ -35,10 +38,15 @@
             "_cachedPersistedState": "Main"
           }
         }
-      }
+      },
+      "IsDeactivated": false,
+      "ActivateWithParent": false
     }
   },
   "_entitiesToFolder": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
+  },
+  "_entitiesToFilter": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
   },
   "Name": "Menu",

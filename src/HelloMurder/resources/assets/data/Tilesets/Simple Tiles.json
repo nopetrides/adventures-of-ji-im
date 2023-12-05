@@ -16,6 +16,10 @@
   "CollisionLayer": 65,
   "Order": 0,
   "TargetBatch": 0,
+  "AdditionalTiles": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": []
+  },
   "Sort": 0.0,
   "Name": "Simple Tiles",
   "Guid": "13c1bd9e-5319-42e9-b391-9b6309d32df2"

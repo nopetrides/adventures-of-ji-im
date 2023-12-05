@@ -16,6 +16,10 @@
   "CollisionLayer": 65,
   "Order": 0,
   "TargetBatch": 0,
+  "AdditionalTiles": {
+    "$type": "System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable",
+    "$values": []
+  },
   "Sort": 0.0,
   "Name": "Wall Tiles",
   "Guid": "925a5a60-0e7b-4ddd-b368-222819c593dc"
