@@ -162,10 +162,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\T-corner_wall1": {
+    "tiles\\floor_wood_diagonal1": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\T-corner_wall1",
+      "Name": "tiles\\floor_wood_diagonal1",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -194,10 +194,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\vertical_wall1": {
+    "tiles\\floor_wood_diagonal2": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\vertical_wall1",
+      "Name": "tiles\\floor_wood_diagonal2",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -226,10 +226,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall1": {
+    "tiles\\floor_wood_diagonal3": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall1",
+      "Name": "tiles\\floor_wood_diagonal3",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -258,10 +258,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall2": {
+    "tiles\\floor_wood_straight": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall2",
+      "Name": "tiles\\floor_wood_straight",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -290,10 +290,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\half_T-corner_wall1": {
+    "tiles\\wall_red-double_verticalt": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\half_T-corner_wall1",
+      "Name": "tiles\\wall_red-double_verticalt",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
@@ -354,10 +354,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wood_diagonal": {
+    "tiles\\wall_white_medium": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wood_diagonal",
+      "Name": "tiles\\wall_white_medium",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -386,10 +386,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wood_diagonal2": {
+    "tiles\\wall_white_small": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wood_diagonal2",
+      "Name": "tiles\\wall_white_small",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -418,10 +418,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wood_diagonal3": {
+    "tiles\\wall_white_T-corner": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wood_diagonal3",
+      "Name": "tiles\\wall_white_T-corner",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -450,10 +450,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wood_straight": {
+    "tiles\\wall_white_vertical": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wood_straight",
+      "Name": "tiles\\wall_white_vertical",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 64,
@@ -482,10 +482,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\half_vertical_wall1": {
+    "tiles\\wall_red_T-corner": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\half_vertical_wall1",
+      "Name": "tiles\\wall_red_T-corner",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
@@ -514,10 +514,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall_red-double_verticalt": {
+    "tiles\\wall_white_half-T-corner": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall_red-double_verticalt",
+      "Name": "tiles\\wall_white_half-T-corner",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
@@ -546,10 +546,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall_red_T-corner": {
+    "tiles\\wall_white_half_vertical": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall_red_T-corner",
+      "Name": "tiles\\wall_white_half_vertical",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
