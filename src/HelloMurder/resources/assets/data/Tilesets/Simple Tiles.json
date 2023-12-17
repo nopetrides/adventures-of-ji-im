@@ -1,10 +1,10 @@
 {
   "$type": "Murder.Assets.Graphics.TilesetAsset, Murder",
-  "Image": "c59b5912-4924-cb33-7efb-abe8ac1ae3fa",
+  "Image": "6dba094e-940d-6b98-6e24-854975205c71",
   "Offset": {
     "$type": "Murder.Core.Geometry.Point, Murder",
-    "X": 0,
-    "Y": 0
+    "X": 32,
+    "Y": 32
   },
   "Size": {
     "$type": "Murder.Core.Geometry.Point, Murder",
