@@ -130,35 +130,35 @@
       },
       "AtlasId": 1
     },
-    "tiles\\checkered_floor": {
+    "characters\\JIIM_2_0045": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\checkered_floor",
+      "Name": "characters\\JIIM_2_0045",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
-        "X": 24,
-        "Y": 24
+        "X": 32,
+        "Y": 64
       },
       "SourceRectangle": {
         "$type": "Murder.Core.Geometry.IntRectangle, Murder",
         "X": 513,
         "Y": 260,
-        "Width": 24,
-        "Height": 24
+        "Width": 27,
+        "Height": 56
       },
       "UV": {
         "$type": "Murder.Core.Geometry.Rectangle, Murder",
         "X": 0.50097656,
         "Y": 0.25390625,
-        "Width": 0.0234375,
-        "Height": 0.0234375
+        "Width": 0.026367188,
+        "Height": 0.0546875
       },
       "TrimArea": {
         "$type": "Murder.Core.Geometry.IntRectangle, Murder",
-        "X": 0,
-        "Y": 0,
-        "Width": 24,
-        "Height": 24
+        "X": 5,
+        "Y": 8,
+        "Width": 27,
+        "Height": 56
       },
       "AtlasId": 1
     },
@@ -258,6 +258,70 @@
       },
       "AtlasId": 1
     },
+    "characters\\JIIM_2_0051": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0051",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 706,
+        "Y": 260,
+        "Width": 24,
+        "Height": 56
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6894531,
+        "Y": 0.25390625,
+        "Width": 0.0234375,
+        "Height": 0.0546875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 8,
+        "Width": 24,
+        "Height": 56
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0044": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0044",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 541,
+        "Y": 260,
+        "Width": 25,
+        "Height": 53
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5283203,
+        "Y": 0.25390625,
+        "Width": 0.024414062,
+        "Height": 0.051757812
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 11,
+        "Width": 25,
+        "Height": 53
+      },
+      "AtlasId": 1
+    },
     "tiles\\walls": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
@@ -287,6 +351,38 @@
         "Y": 11,
         "Width": 72,
         "Height": 169
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0039": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0039",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 513,
+        "Y": 581,
+        "Width": 27,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.50097656,
+        "Y": 0.5673828,
+        "Width": 0.026367188,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 27,
+        "Height": 49
       },
       "AtlasId": 1
     },
@@ -354,10 +450,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall_red-double_verticalt": {
+    "characters\\JIIM_smoking_0000": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall_red-double_verticalt",
+      "Name": "characters\\JIIM_smoking_0000",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
@@ -415,6 +511,70 @@
         "Y": 0,
         "Width": 64,
         "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0041": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0041",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 731,
+        "Y": 260,
+        "Width": 27,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7138672,
+        "Y": 0.25390625,
+        "Width": 0.026367188,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 27,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0047": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0047",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 567,
+        "Y": 260,
+        "Width": 27,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.55371094,
+        "Y": 0.25390625,
+        "Width": 0.026367188,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 27,
+        "Height": 48
       },
       "AtlasId": 1
     },
@@ -479,6 +639,38 @@
         "Y": 0,
         "Width": 64,
         "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0040": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0040",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 541,
+        "Y": 581,
+        "Width": 26,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5283203,
+        "Y": 0.5673828,
+        "Width": 0.025390625,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 26,
+        "Height": 49
       },
       "AtlasId": 1
     },
@@ -578,10 +770,42 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall_red_T-corner": {
+    "tiles\\checkered_floor": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall_red_T-corner",
+      "Name": "tiles\\checkered_floor",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 24,
+        "Y": 24
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 981,
+        "Width": 24,
+        "Height": 24
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.0,
+        "Y": 0.9580078,
+        "Width": 0.0234375,
+        "Height": 0.0234375
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 24,
+        "Height": 24
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0001": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0001",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
@@ -610,10 +834,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall_white_half-T-corner": {
+    "characters\\JIIM_smoking_0002": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall_white_half-T-corner",
+      "Name": "characters\\JIIM_smoking_0002",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
@@ -674,6 +898,70 @@
       },
       "AtlasId": 1
     },
+    "characters\\JIIM_2_0043": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0043",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 759,
+        "Y": 260,
+        "Width": 25,
+        "Height": 51
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.74121094,
+        "Y": 0.25390625,
+        "Width": 0.024414062,
+        "Height": 0.049804688
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 13,
+        "Width": 25,
+        "Height": 51
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0049": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0049",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 595,
+        "Y": 260,
+        "Width": 25,
+        "Height": 51
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5810547,
+        "Y": 0.25390625,
+        "Width": 0.024414062,
+        "Height": 0.049804688
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 13,
+        "Width": 25,
+        "Height": 51
+      },
+      "AtlasId": 1
+    },
     "tiles\\wall_white_vertical": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
@@ -706,10 +994,10 @@
       },
       "AtlasId": 1
     },
-    "tiles\\wall_white_half_vertical": {
+    "characters\\JIIM_smoking_0003": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
-      "Name": "tiles\\wall_white_half_vertical",
+      "Name": "characters\\JIIM_smoking_0003",
       "Size": {
         "$type": "Murder.Core.Geometry.Point, Murder",
         "X": 32,
@@ -738,6 +1026,3782 @@
       },
       "AtlasId": 1
     },
+    "characters\\JIIM_smoking_0004": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0004",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 642,
+        "Y": 556,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6269531,
+        "Y": 0.54296875,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0042": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0042",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 568,
+        "Y": 581,
+        "Width": 26,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5546875,
+        "Y": 0.5673828,
+        "Width": 0.025390625,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 26,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0005": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0005",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 243,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.23730469,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0006": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0006",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 178,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.17382812,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0007": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0007",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 105,
+        "Y": 816,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.10253906,
+        "Y": 0.796875,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0008": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0008",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 130,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.12695312,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0009": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0009",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 976,
+        "Y": 130,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.953125,
+        "Y": 0.12695312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0048": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0048",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 945,
+        "Y": 129,
+        "Width": 26,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.92285156,
+        "Y": 0.12597656,
+        "Width": 0.025390625,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 26,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0010": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0010",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 912,
+        "Y": 194,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.890625,
+        "Y": 0.18945312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0050": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0050",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 847,
+        "Y": 259,
+        "Width": 24,
+        "Height": 53
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.82714844,
+        "Y": 0.2529297,
+        "Width": 0.0234375,
+        "Height": 0.051757812
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 11,
+        "Width": 24,
+        "Height": 53
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0046": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0046",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 785,
+        "Y": 260,
+        "Width": 26,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.76660156,
+        "Y": 0.25390625,
+        "Width": 0.025390625,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 26,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0038": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0038",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 621,
+        "Y": 260,
+        "Width": 25,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6064453,
+        "Y": 0.25390625,
+        "Width": 0.024414062,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 25,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0011": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0011",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 845,
+        "Y": 321,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8251953,
+        "Y": 0.31347656,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0012": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0012",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 780,
+        "Y": 386,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.76171875,
+        "Y": 0.37695312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\Charactertest": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\Charactertest",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 748,
+        "Y": 386,
+        "Width": 18,
+        "Height": 63
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.73046875,
+        "Y": 0.37695312,
+        "Width": 0.017578125,
+        "Height": 0.061523438
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 7,
+        "Y": 1,
+        "Width": 18,
+        "Height": 63
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0013": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0013",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 715,
+        "Y": 451,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6982422,
+        "Y": 0.4404297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0014": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0014",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 675,
+        "Y": 556,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6591797,
+        "Y": 0.54296875,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0055": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0055",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 595,
+        "Y": 581,
+        "Width": 23,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5810547,
+        "Y": 0.5673828,
+        "Width": 0.022460938,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 23,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0015": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0015",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 276,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.26953125,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0016": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0016",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 243,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.23730469,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0056": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0056",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 211,
+        "Y": 707,
+        "Width": 23,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.20605469,
+        "Y": 0.6904297,
+        "Width": 0.022460938,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 23,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0017": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0017",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 178,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.17382812,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0018": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0018",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 138,
+        "Y": 816,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.13476562,
+        "Y": 0.796875,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0019": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0019",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 163,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.15917969,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0020": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0020",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 976,
+        "Y": 195,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.953125,
+        "Y": 0.19042969,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0059": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0059",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 945,
+        "Y": 194,
+        "Width": 23,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.92285156,
+        "Y": 0.18945312,
+        "Width": 0.022460938,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 23,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0060": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0060",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 872,
+        "Y": 259,
+        "Width": 23,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8515625,
+        "Y": 0.2529297,
+        "Width": 0.022460938,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 23,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0061": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0061",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 812,
+        "Y": 260,
+        "Width": 23,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.79296875,
+        "Y": 0.25390625,
+        "Width": 0.022460938,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 23,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0052": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0052",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 647,
+        "Y": 260,
+        "Width": 23,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.63183594,
+        "Y": 0.25390625,
+        "Width": 0.022460938,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 23,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0021": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0021",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 878,
+        "Y": 321,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8574219,
+        "Y": 0.31347656,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0022": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0022",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 845,
+        "Y": 386,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8251953,
+        "Y": 0.37695312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0005": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0005",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 813,
+        "Y": 386,
+        "Width": 22,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7939453,
+        "Y": 0.37695312,
+        "Width": 0.021484375,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 12,
+        "Width": 22,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0023": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0023",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 780,
+        "Y": 451,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.76171875,
+        "Y": 0.4404297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0037": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0037",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 748,
+        "Y": 451,
+        "Width": 22,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.73046875,
+        "Y": 0.4404297,
+        "Width": 0.021484375,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 22,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0024": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0024",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 715,
+        "Y": 516,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6982422,
+        "Y": 0.50390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0054": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0054",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 619,
+        "Y": 581,
+        "Width": 22,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6044922,
+        "Y": 0.5673828,
+        "Width": 0.021484375,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 22,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0025": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0025",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 309,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3017578,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0026": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0026",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 276,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.26953125,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0027": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0027",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 243,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.23730469,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0057": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0057",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 211,
+        "Y": 772,
+        "Width": 22,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.20605469,
+        "Y": 0.75390625,
+        "Width": 0.021484375,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 22,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0028": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0028",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 178,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.17382812,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0029": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0029",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 196,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.19140625,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0058": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0058",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 976,
+        "Y": 260,
+        "Width": 22,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.953125,
+        "Y": 0.25390625,
+        "Width": 0.021484375,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 22,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0002": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0002",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 896,
+        "Y": 259,
+        "Width": 21,
+        "Height": 51
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.875,
+        "Y": 0.2529297,
+        "Width": 0.020507812,
+        "Height": 0.049804688
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 12,
+        "Width": 21,
+        "Height": 51
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0006": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0006",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 671,
+        "Y": 260,
+        "Width": 21,
+        "Height": 51
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.65527344,
+        "Y": 0.25390625,
+        "Width": 0.020507812,
+        "Height": 0.049804688
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 12,
+        "Width": 21,
+        "Height": 51
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0030": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0030",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 911,
+        "Y": 321,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.88964844,
+        "Y": 0.31347656,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0031": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0031",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 878,
+        "Y": 386,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8574219,
+        "Y": 0.37695312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0032": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0032",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 845,
+        "Y": 451,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8251953,
+        "Y": 0.4404297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0053": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0053",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 813,
+        "Y": 451,
+        "Width": 22,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7939453,
+        "Y": 0.4404297,
+        "Width": 0.021484375,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 22,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0033": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0033",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 780,
+        "Y": 516,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.76171875,
+        "Y": 0.50390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0000": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0000",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 748,
+        "Y": 516,
+        "Width": 22,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.73046875,
+        "Y": 0.50390625,
+        "Width": 0.021484375,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 13,
+        "Width": 22,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0004": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0004",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 715,
+        "Y": 581,
+        "Width": 22,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6982422,
+        "Y": 0.5673828,
+        "Width": 0.021484375,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 13,
+        "Width": 22,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0034": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0034",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 342,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.33398438,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0035": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0035",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 309,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3017578,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0036": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0036",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 276,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.26953125,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0037": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0037",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 243,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.23730469,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0001": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0001",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 211,
+        "Y": 837,
+        "Width": 21,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.20605469,
+        "Y": 0.8173828,
+        "Width": 0.020507812,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 12,
+        "Width": 21,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0038": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0038",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 229,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.22363281,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0003": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0003",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 918,
+        "Y": 259,
+        "Width": 21,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8964844,
+        "Y": 0.2529297,
+        "Width": 0.020507812,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 12,
+        "Width": 21,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0039": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0039",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 944,
+        "Y": 321,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.921875,
+        "Y": 0.31347656,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0040": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0040",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 911,
+        "Y": 386,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.88964844,
+        "Y": 0.37695312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0041": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0041",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 878,
+        "Y": 451,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8574219,
+        "Y": 0.4404297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0042": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0042",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 845,
+        "Y": 516,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8251953,
+        "Y": 0.50390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0007": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0007",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 813,
+        "Y": 516,
+        "Width": 21,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7939453,
+        "Y": 0.50390625,
+        "Width": 0.020507812,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 12,
+        "Width": 21,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0017": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0017",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 780,
+        "Y": 581,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.76171875,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0024": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0024",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 738,
+        "Y": 581,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7207031,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0043": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0043",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 375,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.36621094,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0044": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0044",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 342,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.33398438,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0045": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0045",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 309,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3017578,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0046": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0046",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 276,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.26953125,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0047": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0047",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 262,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.25585938,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0018": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0018",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 940,
+        "Y": 259,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.91796875,
+        "Y": 0.2529297,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0048": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0048",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 977,
+        "Y": 321,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.95410156,
+        "Y": 0.31347656,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0049": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0049",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 944,
+        "Y": 386,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.921875,
+        "Y": 0.37695312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0050": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0050",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 911,
+        "Y": 451,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.88964844,
+        "Y": 0.4404297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0051": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0051",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 878,
+        "Y": 516,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8574219,
+        "Y": 0.50390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0019": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0019",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 845,
+        "Y": 581,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8251953,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0020": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0020",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 802,
+        "Y": 581,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7832031,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0052": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0052",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 408,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3984375,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0053": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0053",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 375,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.36621094,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0054": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0054",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 342,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.33398438,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0055": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0055",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 309,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3017578,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0056": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0056",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 295,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.28808594,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0057": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0057",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 977,
+        "Y": 386,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.95410156,
+        "Y": 0.37695312,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0058": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0058",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 944,
+        "Y": 451,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.921875,
+        "Y": 0.4404297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0059": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0059",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 911,
+        "Y": 516,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.88964844,
+        "Y": 0.50390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0021": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0021",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 878,
+        "Y": 581,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8574219,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0000": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0000",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 824,
+        "Y": 581,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.8046875,
+        "Y": 0.5673828,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0060": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0060",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 441,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.43066406,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0061": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0061",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 408,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3984375,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0062": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0062",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 375,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.36621094,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0063": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0063",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 342,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.33398438,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0064": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0064",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 328,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3203125,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0065": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0065",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 977,
+        "Y": 451,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.95410156,
+        "Y": 0.4404297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0066": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0066",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 944,
+        "Y": 516,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.921875,
+        "Y": 0.50390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0022": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0022",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 911,
+        "Y": 581,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.88964844,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0067": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0067",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 474,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.46289062,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0068": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0068",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 441,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.43066406,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0069": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0069",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 408,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3984375,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0070": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0070",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 375,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.36621094,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0071": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0071",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 361,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.35253906,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0072": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0072",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 977,
+        "Y": 516,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.95410156,
+        "Y": 0.50390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0023": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0023",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 944,
+        "Y": 581,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.921875,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0073": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0073",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 507,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.4951172,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0074": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0074",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 474,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.46289062,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0075": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0075",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 441,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.43066406,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0076": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0076",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 408,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.3984375,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0077": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0077",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 394,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.38476562,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0034": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0034",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 977,
+        "Y": 581,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.95410156,
+        "Y": 0.5673828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0078": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0078",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 540,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.52734375,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_smoking_0079": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_smoking_0079",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 507,
+        "Y": 707,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.4951172,
+        "Y": 0.6904297,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "tiles\\wall_red-double_verticalt": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "tiles\\wall_red-double_verticalt",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 474,
+        "Y": 772,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.46289062,
+        "Y": 0.75390625,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "tiles\\wall_red_T-corner": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "tiles\\wall_red_T-corner",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 441,
+        "Y": 837,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.43066406,
+        "Y": 0.8173828,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "tiles\\wall_white_half-T-corner": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "tiles\\wall_white_half-T-corner",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 427,
+        "Y": 916,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.4169922,
+        "Y": 0.89453125,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "tiles\\wall_white_half_vertical": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "tiles\\wall_white_half_vertical",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 573,
+        "Y": 642,
+        "Width": 32,
+        "Height": 64
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5595703,
+        "Y": 0.6269531,
+        "Width": 0.03125,
+        "Height": 0.0625
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 0,
+        "Y": 0,
+        "Width": 32,
+        "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0035": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0035",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 540,
+        "Y": 707,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.52734375,
+        "Y": 0.6904297,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0036": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0036",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 507,
+        "Y": 772,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.4951172,
+        "Y": 0.75390625,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0062": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0062",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 474,
+        "Y": 837,
+        "Width": 21,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.46289062,
+        "Y": 0.8173828,
+        "Width": 0.020507812,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 15,
+        "Width": 21,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
     "tiles\\wall_red corner": {
       "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
       "AtlasIndex": 0,
@@ -749,15 +4813,15 @@
       },
       "SourceRectangle": {
         "$type": "Murder.Core.Geometry.IntRectangle, Murder",
-        "X": 642,
-        "Y": 556,
+        "X": 460,
+        "Y": 916,
         "Width": 16,
         "Height": 64
       },
       "UV": {
         "$type": "Murder.Core.Geometry.Rectangle, Murder",
-        "X": 0.6269531,
-        "Y": 0.54296875,
+        "X": 0.44921875,
+        "Y": 0.89453125,
         "Width": 0.015625,
         "Height": 0.0625
       },
@@ -781,14 +4845,14 @@
       },
       "SourceRectangle": {
         "$type": "Murder.Core.Geometry.IntRectangle, Murder",
-        "X": 243,
+        "X": 606,
         "Y": 642,
         "Width": 16,
         "Height": 64
       },
       "UV": {
         "$type": "Murder.Core.Geometry.Rectangle, Murder",
-        "X": 0.23730469,
+        "X": 0.5917969,
         "Y": 0.6269531,
         "Width": 0.015625,
         "Height": 0.0625
@@ -799,6 +4863,1574 @@
         "Y": 0,
         "Width": 16,
         "Height": 64
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0018": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0018",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 573,
+        "Y": 707,
+        "Width": 20,
+        "Height": 51
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5595703,
+        "Y": 0.6904297,
+        "Width": 0.01953125,
+        "Height": 0.049804688
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 11,
+        "Width": 20,
+        "Height": 51
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0022": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0022",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 540,
+        "Y": 757,
+        "Width": 20,
+        "Height": 51
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.52734375,
+        "Y": 0.7392578,
+        "Width": 0.01953125,
+        "Height": 0.049804688
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 11,
+        "Width": 20,
+        "Height": 51
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0025": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0025",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 507,
+        "Y": 822,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.4951172,
+        "Y": 0.8027344,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0026": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0026",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 477,
+        "Y": 916,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.4658203,
+        "Y": 0.89453125,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0027": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0027",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 623,
+        "Y": 642,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.60839844,
+        "Y": 0.6269531,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0009": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0009",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 606,
+        "Y": 707,
+        "Width": 16,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5917969,
+        "Y": 0.6904297,
+        "Width": 0.015625,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 11,
+        "Width": 16,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0028": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0028",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 573,
+        "Y": 759,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5595703,
+        "Y": 0.74121094,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0029": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0029",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 540,
+        "Y": 809,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.52734375,
+        "Y": 0.79003906,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0030": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0030",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 499,
+        "Y": 916,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.4873047,
+        "Y": 0.89453125,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0031": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0031",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 645,
+        "Y": 642,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6298828,
+        "Y": 0.6269531,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0032": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0032",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 623,
+        "Y": 691,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.60839844,
+        "Y": 0.6748047,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0011": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0011",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 606,
+        "Y": 758,
+        "Width": 16,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5917969,
+        "Y": 0.7402344,
+        "Width": 0.015625,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 11,
+        "Width": 16,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0033": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0033",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 573,
+        "Y": 808,
+        "Width": 21,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5595703,
+        "Y": 0.7890625,
+        "Width": 0.020507812,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 5,
+        "Y": 16,
+        "Width": 21,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0017": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0017",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 540,
+        "Y": 858,
+        "Width": 20,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.52734375,
+        "Y": 0.8378906,
+        "Width": 0.01953125,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 11,
+        "Width": 20,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0019": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0019",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 521,
+        "Y": 916,
+        "Width": 20,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.50878906,
+        "Y": 0.89453125,
+        "Width": 0.01953125,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 11,
+        "Width": 20,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0021": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0021",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 667,
+        "Y": 642,
+        "Width": 20,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6513672,
+        "Y": 0.6269531,
+        "Width": 0.01953125,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 11,
+        "Width": 20,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0023": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0023",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 645,
+        "Y": 691,
+        "Width": 20,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6298828,
+        "Y": 0.6748047,
+        "Width": 0.01953125,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 11,
+        "Width": 20,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0001": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0001",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 623,
+        "Y": 740,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.60839844,
+        "Y": 0.72265625,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0013": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0013",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 606,
+        "Y": 809,
+        "Width": 16,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5917969,
+        "Y": 0.79003906,
+        "Width": 0.015625,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 11,
+        "Width": 16,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0002": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0002",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 573,
+        "Y": 857,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5595703,
+        "Y": 0.83691406,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0003": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0003",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 542,
+        "Y": 916,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5292969,
+        "Y": 0.89453125,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0000": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0000",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 688,
+        "Y": 642,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.671875,
+        "Y": 0.6269531,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0001": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0001",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 667,
+        "Y": 693,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6513672,
+        "Y": 0.6767578,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0002": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0002",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 645,
+        "Y": 742,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6298828,
+        "Y": 0.7246094,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0003": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0003",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 623,
+        "Y": 790,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.60839844,
+        "Y": 0.7714844,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0015": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0015",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 606,
+        "Y": 860,
+        "Width": 16,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5917969,
+        "Y": 0.83984375,
+        "Width": 0.015625,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 11,
+        "Width": 16,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0014": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0014",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 563,
+        "Y": 916,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5498047,
+        "Y": 0.89453125,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0015": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0015",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 709,
+        "Y": 642,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6923828,
+        "Y": 0.6269531,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0016": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0016",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 688,
+        "Y": 692,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.671875,
+        "Y": 0.67578125,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 15,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0016": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0016",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 667,
+        "Y": 743,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6513672,
+        "Y": 0.72558594,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 12,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0020": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0020",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 645,
+        "Y": 792,
+        "Width": 20,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6298828,
+        "Y": 0.7734375,
+        "Width": 0.01953125,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 12,
+        "Width": 20,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0004": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0004",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 623,
+        "Y": 840,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.60839844,
+        "Y": 0.8203125,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0005": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0005",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 584,
+        "Y": 916,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5703125,
+        "Y": 0.89453125,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0006": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0006",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 730,
+        "Y": 642,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7128906,
+        "Y": 0.6269531,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_0007": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_0007",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 709,
+        "Y": 692,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6923828,
+        "Y": 0.67578125,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0004": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0004",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 688,
+        "Y": 742,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.671875,
+        "Y": 0.7246094,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0005": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0005",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 667,
+        "Y": 793,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6513672,
+        "Y": 0.77441406,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0006": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0006",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 645,
+        "Y": 842,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6298828,
+        "Y": 0.8222656,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0007": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0007",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 605,
+        "Y": 916,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.5908203,
+        "Y": 0.89453125,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0008": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0008",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 751,
+        "Y": 642,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.73339844,
+        "Y": 0.6269531,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0009": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0009",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 730,
+        "Y": 691,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7128906,
+        "Y": 0.6748047,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0010": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0010",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 709,
+        "Y": 741,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6923828,
+        "Y": 0.7236328,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0011": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0011",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 688,
+        "Y": 791,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.671875,
+        "Y": 0.77246094,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0012": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0012",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 667,
+        "Y": 842,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6513672,
+        "Y": 0.8222656,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_2_0013": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_2_0013",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 626,
+        "Y": 916,
+        "Width": 20,
+        "Height": 48
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6113281,
+        "Y": 0.89453125,
+        "Width": 0.01953125,
+        "Height": 0.046875
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 6,
+        "Y": 16,
+        "Width": 20,
+        "Height": 48
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0010": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0010",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 772,
+        "Y": 642,
+        "Width": 17,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.75390625,
+        "Y": 0.6269531,
+        "Width": 0.016601562,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 11,
+        "Width": 17,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0014": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0014",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 751,
+        "Y": 691,
+        "Width": 17,
+        "Height": 50
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.73339844,
+        "Y": 0.6748047,
+        "Width": 0.016601562,
+        "Height": 0.048828125
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 11,
+        "Width": 17,
+        "Height": 50
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0008": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0008",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 730,
+        "Y": 740,
+        "Width": 16,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.7128906,
+        "Y": 0.72265625,
+        "Width": 0.015625,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 12,
+        "Width": 16,
+        "Height": 49
+      },
+      "AtlasId": 1
+    },
+    "characters\\JIIM_walk_0012": {
+      "$type": "Murder.Core.Graphics.AtlasCoordinates, Murder",
+      "AtlasIndex": 0,
+      "Name": "characters\\JIIM_walk_0012",
+      "Size": {
+        "$type": "Murder.Core.Geometry.Point, Murder",
+        "X": 32,
+        "Y": 64
+      },
+      "SourceRectangle": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 709,
+        "Y": 790,
+        "Width": 16,
+        "Height": 49
+      },
+      "UV": {
+        "$type": "Murder.Core.Geometry.Rectangle, Murder",
+        "X": 0.6923828,
+        "Y": 0.7714844,
+        "Width": 0.015625,
+        "Height": 0.047851562
+      },
+      "TrimArea": {
+        "$type": "Murder.Core.Geometry.IntRectangle, Murder",
+        "X": 8,
+        "Y": 12,
+        "Width": 16,
+        "Height": 49
       },
       "AtlasId": 1
     }

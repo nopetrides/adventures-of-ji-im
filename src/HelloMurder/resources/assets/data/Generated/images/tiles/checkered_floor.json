@@ -15,15 +15,15 @@
         },
         "SourceRectangle": {
           "$type": "Murder.Core.Geometry.IntRectangle, Murder",
-          "X": 513,
-          "Y": 260,
+          "X": 0,
+          "Y": 981,
           "Width": 24,
           "Height": 24
         },
         "UV": {
           "$type": "Murder.Core.Geometry.Rectangle, Murder",
-          "X": 0.50097656,
-          "Y": 0.25390625,
+          "X": 0.0,
+          "Y": 0.9580078,
           "Width": 0.0234375,
           "Height": 0.0234375
         },
@@ -56,6 +56,13 @@
     "Height": 0.0
   },
   "_editorPath": "#Generated\\images",
+  "AsepriteFileInfo": {
+    "$type": "System.Nullable`1[[Murder.Utilities.AsepriteFileInfo, Murder]], System.Private.CoreLib",
+    "Source": "G:\\Programming\\adventures-of-ji-im\\resources\\images\\tiles\\checkered_floor.aseprite",
+    "Layer": -1,
+    "SliceIndex": 0,
+    "Baked": true
+  },
   "Animations": {
     "$type": "System.Collections.Immutable.ImmutableDictionary`2[[System.String, System.Private.CoreLib],[Murder.Core.Graphics.Animation, Murder]], System.Collections.Immutable",
     "": {

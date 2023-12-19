@@ -56,6 +56,13 @@
     "Height": 0.0
   },
   "_editorPath": "#Generated\\images",
+  "AsepriteFileInfo": {
+    "$type": "System.Nullable`1[[Murder.Utilities.AsepriteFileInfo, Murder]], System.Private.CoreLib",
+    "Source": "G:\\Programming\\adventures-of-ji-im\\resources\\images\\tiles\\simple.ase",
+    "Layer": -1,
+    "SliceIndex": 0,
+    "Baked": true
+  },
   "Animations": {
     "$type": "System.Collections.Immutable.ImmutableDictionary`2[[System.String, System.Private.CoreLib],[Murder.Core.Graphics.Animation, Murder]], System.Collections.Immutable",
     "": {
