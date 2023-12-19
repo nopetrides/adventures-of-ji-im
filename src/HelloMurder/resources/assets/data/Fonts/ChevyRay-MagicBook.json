@@ -4,6 +4,11 @@
   "LineHeight": 12,
   "Index": 101,
   "Baseline": 9.0,
+  "Offset": {
+    "$type": "Murder.Core.Geometry.Point, Murder",
+    "X": 0,
+    "Y": 0
+  },
   "Characters": {
     "$type": "System.Collections.Immutable.ImmutableDictionary`2[[System.Int32, System.Private.CoreLib],[Murder.Core.Graphics.PixelFontCharacter, Murder]], System.Collections.Immutable",
     "32": {

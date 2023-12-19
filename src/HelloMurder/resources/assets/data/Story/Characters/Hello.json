@@ -36,8 +36,7 @@
               "$type": "System.Collections.Immutable.ImmutableArray`1[[Murder.Core.Dialogs.Line, Murder]], System.Collections.Immutable",
               "$values": [
                 {
-                  "$type": "Murder.Core.Dialogs.Line, Murder",
-                  "Text": "Welcome to Murder Engine."
+                  "$type": "Murder.Core.Dialogs.Line, Murder"
                 }
               ]
             },
@@ -56,8 +55,7 @@
               "$type": "System.Collections.Immutable.ImmutableArray`1[[Murder.Core.Dialogs.Line, Murder]], System.Collections.Immutable",
               "$values": [
                 {
-                  "$type": "Murder.Core.Dialogs.Line, Murder",
-                  "Text": "Please, make yourself home."
+                  "$type": "Murder.Core.Dialogs.Line, Murder"
                 }
               ]
             },
