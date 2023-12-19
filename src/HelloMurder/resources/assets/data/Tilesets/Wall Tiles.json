@@ -13,7 +13,7 @@
   },
   "YSortOffset": 0,
   "ConsiderOutsideOccupied": false,
-  "CollisionLayer": 64,
+  "CollisionLayer": 65,
   "Order": 0,
   "TargetBatch": 0,
   "AdditionalTiles": {

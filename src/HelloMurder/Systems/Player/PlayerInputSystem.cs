@@ -4,6 +4,10 @@ using Bang.Systems;
 using Murder.Components;
 using Murder;
 using HelloMurder.Components;
+using HelloMurder.Core.Input;
+using Murder.Helpers;
+using Murder.Utilities;
+using System.Numerics;
 
 namespace HelloMurder.Systems
 {
@@ -22,29 +26,26 @@ namespace HelloMurder.Systems
     public class PlayerInputSystem : IUpdateSystem, IFixedUpdateSystem
     {
 
-        /// <summary>
-        ///     Called every fixed update.
-        ///     We can apply input values to fixed updating components such as physics components.
-        ///     For example the <see cref="AgentComponent"/>
-        /// </summary>
-        /// <param name="context"></param>
+        private Vector2 _cachedInputAxis = Vector2.Zero;
+
         public void FixedUpdate(Context context)
         {
             foreach (Entity entity in context.Entities)
             {
-                // Send entity messages or use entity extensions to update relevant entities
+                bool moved = _cachedInputAxis.HasValue();
+
+                if (moved)
+                {
+                    Direction direction = DirectionHelper.FromVector(_cachedInputAxis);
+
+                    entity.SetAgentImpulse(_cachedInputAxis, direction);
+                }
             }
         }
 
-        /// <summary>
-        ///     Called every frame
-        ///     This is where we should poll our input system
-        ///     We can optionally cache these values and use them in the <see cref="FixedUpdate(Context)"/>
-        /// </summary>
-        /// <param name="context"></param>
         public void Update(Context context)
         {
-            // Read from Game.Input
+            _cachedInputAxis = Game.Input.GetAxis(InputAxis.Movement).Value;
         }
     }
 }

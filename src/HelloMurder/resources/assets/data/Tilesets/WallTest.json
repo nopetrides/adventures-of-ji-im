@@ -3,17 +3,17 @@
   "Image": "472162e5-0d57-2492-09cd-9f9983aa3e30",
   "Offset": {
     "$type": "Murder.Core.Geometry.Point, Murder",
-    "X": 32,
-    "Y": 32
+    "X": 0,
+    "Y": 28
   },
   "Size": {
     "$type": "Murder.Core.Geometry.Point, Murder",
-    "X": 64,
-    "Y": 64
+    "X": 32,
+    "Y": 48
   },
-  "YSortOffset": 0,
+  "YSortOffset": -8,
   "ConsiderOutsideOccupied": false,
-  "CollisionLayer": 1,
+  "CollisionLayer": 65,
   "Order": 0,
   "TargetBatch": 0,
   "AdditionalTiles": {

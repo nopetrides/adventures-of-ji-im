@@ -19,18 +19,12 @@
           "$type": "System.Collections.Immutable.ImmutableArray`1[[Murder.Core.Geometry.IShape, Murder]], System.Collections.Immutable",
           "$values": [
             {
-              "$type": "Murder.Core.Geometry.BoxShape, Murder",
-              "Width": 16,
-              "Height": 11,
-              "Origin": {
-                "$type": "System.Numerics.Vector2, System.Private.CoreLib",
-                "X": 0.0,
-                "Y": 0.0
-              },
+              "$type": "Murder.Core.Geometry.LazyShape, Murder",
+              "Radius": 8.0,
               "Offset": {
                 "$type": "Murder.Core.Geometry.Point, Murder",
-                "X": -8,
-                "Y": -10
+                "X": 0,
+                "Y": -5
               }
             }
           ]
@@ -47,7 +41,7 @@
         "$type": "Murder.Components.AgentSpriteComponent, Murder",
         "AnimationGuid": "924160bf-e604-64fc-3164-576e1745502b",
         "TargetSpriteBatch": 0,
-        "YSortOffset": 0,
+        "YSortOffset": -4,
         "IdlePrefix": "idle_",
         "WalkPrefix": "walk_",
         "Suffix": "side,down,down,down,side,side,up,side",
@@ -57,6 +51,15 @@
       "Murder.Components.FacingComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
         "$type": "Murder.Components.FacingComponent, Murder",
         "Direction": 2
+      },
+      "HelloMurder.Components.PlayerComponent, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+        "$type": "HelloMurder.Components.PlayerComponent, HelloMurder"
+      },
+      "Murder.Components.AgentComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+        "$type": "Murder.Components.AgentComponent, Murder",
+        "Speed": 50.0,
+        "Acceleration": 50.0,
+        "Friction": 1.0
       }
     },
     "IsDeactivated": false,
