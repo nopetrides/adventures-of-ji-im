@@ -14,14 +14,14 @@
       },
       "Murder.Components.ColliderComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
         "$type": "Murder.Components.ColliderComponent, Murder",
-        "Layer": 8,
+        "Layer": 9,
         "Shapes": {
           "$type": "System.Collections.Immutable.ImmutableArray`1[[Murder.Core.Geometry.IShape, Murder]], System.Collections.Immutable",
           "$values": [
             {
               "$type": "Murder.Core.Geometry.BoxShape, Murder",
               "Width": 16,
-              "Height": 16,
+              "Height": 11,
               "Origin": {
                 "$type": "System.Numerics.Vector2, System.Private.CoreLib",
                 "X": 0.0,
@@ -29,8 +29,8 @@
               },
               "Offset": {
                 "$type": "Murder.Core.Geometry.Point, Murder",
-                "X": 0,
-                "Y": 0
+                "X": -8,
+                "Y": -10
               }
             }
           ]
@@ -45,18 +45,18 @@
       },
       "Murder.Components.AgentSpriteComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
         "$type": "Murder.Components.AgentSpriteComponent, Murder",
-        "AnimationGuid": "00000000-0000-0000-0000-000000000000",
+        "AnimationGuid": "924160bf-e604-64fc-3164-576e1745502b",
         "TargetSpriteBatch": 0,
         "YSortOffset": 0,
-        "IdlePrefix": "idle",
-        "WalkPrefix": "walk",
-        "Suffix": "e,se,s,se,e,ne,n,ne",
+        "IdlePrefix": "idle_",
+        "WalkPrefix": "walk_",
+        "Suffix": "side,down,down,down,side,side,up,side",
         "AngleSuffixOffset": 0.0,
         "FlipWest": true
       },
       "Murder.Components.FacingComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
         "$type": "Murder.Components.FacingComponent, Murder",
-        "Direction": 0
+        "Direction": 2
       }
     },
     "IsDeactivated": false,
